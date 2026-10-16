@@ -27,8 +27,8 @@
 - MongoDB
 - Firebase
 
-### Tools
-- Git
-- GitHub
+### AI Tools
 - GitHub Copilot
 - Claude
+- Codex
+- AntiGravity
